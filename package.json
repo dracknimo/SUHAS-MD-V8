@@ -1,12 +1,12 @@
 {
-  "name": "SUHAS-MD-V8",
+  "name": "Nimsara -MD-V8",
   "version": "1.5.0",
-  "description": "💞A WhatsApp bot created by Suhas Pathsindu🧚‍♂️",
+  "description": "💞A WhatsApp bot created by Nimsara Nethmal 🧚‍♂️",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SUHAS-MD-V8",
     "stop": "pm2 stop SUHAS-MD-V8",
-    "restart": "pm2 restart SUHAS-MD-V8"
+    "restart": "pm2 restart Nimsara -MD-V8"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
@@ -44,7 +44,7 @@
     "youtubedl-core": "^4.11.5",
     "moment-timezone": "latest",
     "@mrnima/technology_news_info": "^1.0.0",
-    "@mrnima/facebook-downloader": "^1.0.0",
+    "@mrnima/facebook-downloader": "^2.0.0",
     "file_size_url": "^1.0.4"
 
 
